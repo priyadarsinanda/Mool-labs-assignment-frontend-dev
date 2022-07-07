@@ -1,0 +1,77 @@
+@font-face {
+    font-family: Proxima;
+    src: url(Fonts/Proxima.otf);
+}
+
+body {
+
+    font-family: Proxima, sans-serif;
+
+
+}
+
+.div {
+    width: 100%;
+
+
+}
+
+.div1 {
+    position: relative;
+    height: 500px;
+    width: 286px;
+    height: 1080px;
+    background-color: #151B30;
+}
+
+.logo1 {
+    background: transparent;
+    padding-left: 30px;
+    padding-top: 35px;
+}
+
+.subdiv1 {
+    background-color: #405CD2;
+    margin-top: 155px;
+    margin-left: 17px;
+    margin-right: 17px;
+    width: 253px;
+    height: 53px;
+    border-radius: 5px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 10px;
+    display: flex;
+
+
+}
+
+.subdivImgSpan {
+    margin-right: 20px;
+    margin-left: -20px;
+}
+
+.subdivSpan1 {
+    color: #FFFFFF;
+    width: 65px;
+    font-size: 18px;
+
+}
+
+.navbar {
+    padding-left: 50px;
+    background-color: red;
+    height: 70px;
+    width: 500em;
+}
+
+.navText {
+    height: 29px;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.subdivImgSpan1 {
+    margin-right: 50px;
+    margin-left: -20px;
+}
